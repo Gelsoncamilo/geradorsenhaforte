@@ -1,5 +1,5 @@
 {
-    "name": "Gelsoncamilo/geradorsenhaforte",
+    "name": "gelsoncamilo/geradorsenhaforte",
     "description": "Um gerenciador de senha forte",
     "type": "library",
     "require": {
