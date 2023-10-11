@@ -3,7 +3,7 @@
     "description": "Um gerenciador de senha forte",
     "type": "library",
     "require": {
-        "php": ">=8.2"
+        "php": ">=7.2"
     },
     "authors": [
         {
