@@ -1,0 +1,21 @@
+{
+    "name": "Gelsoncamilo/geradorsenhaforte",
+    "description": "Um gerenciador de senha forte",
+    "type": "library",
+    "require": {
+        "php": ">=8.2"
+    },
+    "authors": [
+        {
+            "name": "Gelson Camilo",
+            "email": "eu@gelsoncamilo.site"
+        }
+    ]
+    ,
+    "autoload": {
+        "psr-4": {
+            "GelsonCamilo\\GeradorDeSenha\\":"src/"
+        }
+    }
+   
+}

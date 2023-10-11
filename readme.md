@@ -1,0 +1,6 @@
+# PHP GERADOR
+
+
+## URILIZAÇÃO
+
+´´´
